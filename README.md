@@ -1,5 +1,5 @@
 # Hotel-Management-system
-I Developed this project for 2nd year final project in campus. this project includes java GUI , SQL with MVC architecture.
+I Developed this project for 2nd year project in campus. this project includes java GUI , SQL with MVC architecture.
 
 This is created using netbean Ide.
 if you run this project, create database name "hotel" and import hotel.sql file.
